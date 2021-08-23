@@ -1,3 +1,3 @@
 # Alg_and_Ds
 
-Lo que voy aprendiendo de Algoritmos y estructuras de datos 
+Lo que voy aprendiendo de algoritmos y estructuras de datos 

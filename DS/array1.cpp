@@ -1,4 +1,6 @@
 
+/*Ingreso una serie de números, los agrego a una array e imprimo el array en reversa*/
+
 #include <iostream>
 
 using namespace std; 
